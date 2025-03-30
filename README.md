@@ -1,5 +1,7 @@
 # ENGO651 - IoT Geoweb Application
 
+[![Live Demo](https://img.shields.io/badge/demo-live-green.svg)](https://amreshsharma01.github.io/IoT-Geoweb-Application)
+
 A real-time geolocation tracking system that transforms smartphones into IoT sensors using MQTT and Leaflet.js.
 
 ![Application Screenshot](screenshot.png)
